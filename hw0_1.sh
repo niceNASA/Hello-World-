@@ -30,4 +30,4 @@ ls /bin | sort -r
 ls >> log.txt
 
 #11 You want to create aliases (shortcuts) to commands that you use frequently.
-ln /home/185080123/linktest.txt -s
+alias lx="ls -la"
